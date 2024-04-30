@@ -4,6 +4,8 @@ Dans le cadre de cette étude, nous ambitionnons d’explorer les modalités com
 critiques pourront apparaitre. Citons, comme exemple, qu'un temps d'écran supérieur ou égal à 15 heures par jour risque de produire des effets indésirables sur la santé, notamment en dégradant les vertus réparatrices du sommeil.
 
 
+test : $$\int$$
+
 
 
 ## English version
