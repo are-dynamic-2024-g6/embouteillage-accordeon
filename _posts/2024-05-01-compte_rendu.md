@@ -4,8 +4,8 @@ title: Compte-rendu
 date: 2024-05-01 +0800
 #categories: [Blogging, Tutorial]
 #tags: [writing]
-render_with_liquid: false
 math: true
+toc: true
 ---
 
 # Présentation 

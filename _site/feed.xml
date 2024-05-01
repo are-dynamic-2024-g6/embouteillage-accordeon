@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>ARE Dynamic -- Réseaux sociaux</title>
+  <title>ARE Dynamic -- Réseaux sociaux -- Sorbonne Université</title>
   <subtitle></subtitle>
-  <updated>2024-05-01T22:55:54+02:00</updated>
+  <updated>2024-05-01T23:17:29+02:00</updated>
   <author>
     <name>Anis Laplagne</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/compte_rendu/" rel="alternate" type="text/html" title="Compte-rendu" />
     <published>2024-05-01T00:00:00+02:00</published>
   
-    <updated>2024-05-01T22:50:14+02:00</updated>
+    <updated>2024-05-01T22:56:01+02:00</updated>
   
     <id>http://localhost:4000/posts/compte_rendu/</id>
     <content src="http://localhost:4000/posts/compte_rendu/" />
