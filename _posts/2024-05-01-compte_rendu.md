@@ -1,12 +1,11 @@
 ---
 title: Compte-rendu
 #author: evadoys
-date: 2024-01-05 14:10:00 +0800
+date: 2024-05-01 +0800
 #categories: [Blogging, Tutorial]
 #tags: [writing]
 render_with_liquid: false
 math: true
-output: html_document
 ---
 
 # Présentation 

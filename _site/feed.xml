@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>ARE Dynamic -- Réseaux sociaux</title>
   <subtitle></subtitle>
-  <updated>2024-05-01T22:49:44+02:00</updated>
+  <updated>2024-05-01T22:55:54+02:00</updated>
   <author>
     <name>Anis Laplagne</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Compte-rendu</title>
     <link href="http://localhost:4000/posts/compte_rendu/" rel="alternate" type="text/html" title="Compte-rendu" />
-    <published>2024-01-05T07:10:00+01:00</published>
+    <published>2024-05-01T00:00:00+02:00</published>
   
-    <updated>2024-05-01T21:25:17+02:00</updated>
+    <updated>2024-05-01T22:50:14+02:00</updated>
   
     <id>http://localhost:4000/posts/compte_rendu/</id>
     <content src="http://localhost:4000/posts/compte_rendu/" />
