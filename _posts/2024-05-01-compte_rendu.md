@@ -671,7 +671,7 @@ plt.grid(True)
 plt.show()
 ```
 
-![Image 1](/images/c4.png)
+![Image 1](/images/c5.png)
 
 ## Conclusion 
 
