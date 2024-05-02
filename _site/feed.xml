@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>ARE Dynamic -- Réseaux sociaux -- Sorbonne Université</title>
   <subtitle></subtitle>
-  <updated>2024-05-01T23:17:29+02:00</updated>
+  <updated>2024-05-02T14:54:51+02:00</updated>
   <author>
     <name>Anis Laplagne</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,43 @@
 
   
   <entry>
+    <title>Journal de bord</title>
+    <link href="http://localhost:4000/posts/journal/" rel="alternate" type="text/html" title="Journal de bord" />
+    <published>2024-05-01T00:00:00+02:00</published>
+  
+    <updated>2024-05-01T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/journal/</id>
+    <content src="http://localhost:4000/posts/journal/" />
+    <author>
+      <name>Anis Laplagne</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Semaine 1
+
+Au cours de cette première semaine, nous avons engagé une réflexion sur les modalités de mise en œuvre de notre projet.
+
+Semaine 2
+
+La seconde semaine, nous avons élaboré des modèles adéquats, initiant notre démarche par la résolution d’équations différentielles. En parallèle, des sondages ont été réalisés afin de recueillir des données concrètes.
+
+Semaine 3
+
+Cette semaine a été prin...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Compte-rendu</title>
     <link href="http://localhost:4000/posts/compte_rendu/" rel="alternate" type="text/html" title="Compte-rendu" />
     <published>2024-05-01T00:00:00+02:00</published>
   
-    <updated>2024-05-01T22:56:01+02:00</updated>
+    <updated>2024-05-02T14:41:17+02:00</updated>
   
     <id>http://localhost:4000/posts/compte_rendu/</id>
     <content src="http://localhost:4000/posts/compte_rendu/" />

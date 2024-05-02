@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Journal de bord",
+    "url": "/posts/journal/",
+    "categories": "",
+    "tags": "",
+    "date": "2024-05-01 00:00:00 +0200",
+    
+
+
+
+
+
+    
+    "snippet": "Semaine 1Au cours de cette première semaine, nous avons engagé une réflexion sur les modalités de mise en œuvre de notre projet.Semaine 2La seconde semaine, nous avons élaboré des modèles adéquats,...",
+    "content": "Semaine 1Au cours de cette première semaine, nous avons engagé une réflexion sur les modalités de mise en œuvre de notre projet.Semaine 2La seconde semaine, nous avons élaboré des modèles adéquats, initiant notre démarche par la résolution d’équations différentielles. En parallèle, des sondages ont été réalisés afin de recueillir des données concrètes.Semaine 3Cette semaine a été principalement consacrée à l’examen de documentation scientifique, dans le but d’affiner notre orientation.Semaine 4Après de multiples recherches, l’adoption d’un automate fini non déterministe s’est avérée être l’option la plus judicieuse pour élaborer notre modèle dynamique. Nous avons approfondi les concepts mathématiques associés pour en faciliter l’implémentation.Semaine 5Nous avons débuté la rédaction de la première partie de notre code, afin de vérifier la justesse de nos intuitions. Nous avons ensuite poursuivi nos recherches documentaires.Semaine 6L’ensemble du projet a été développé et codifié. Nous nous sommes ensuite attelés à la préparation des supports de présentation en utilisant LaTeX pour un rendu professionnel. Les répétitions ont commencé, définissant les rôles de chacun dans la présentation.Semaine 7Durant cette ultime semaine, nous avons répété conjointement notre projet pour en offrir une explication détaillée, rigoureuse et formelle, garantissant une présentation de qualité."
+  },
+  
+  {
     "title": "Compte-rendu",
     "url": "/posts/compte_rendu/",
     "categories": "",
